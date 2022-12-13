@@ -8,5 +8,5 @@
 ![email](https://user-images.githubusercontent.com/20605692/159986132-72e4cb45-3c09-4204-9302-9ddfcac5c4d7.png) milan.radosavljevic@elfak.rs <br />
 
 🔭 Advanced software engineer. <br />
-⚡ C/C++, C#, Javascript, Solidity <br />
-✨ Qt, React, Node.JS, .NET Core <br />
+⚡ C/C++ <br />
+✨ Qt, QML <br />
