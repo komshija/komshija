@@ -5,7 +5,6 @@
 ![linkedin](https://user-images.githubusercontent.com/20605692/159986131-8a58cf56-8f9a-42b0-aa89-06d2f7e3dbd8.png) [Link](https://www.linkedin.com/in/milan-radosavljevi%C4%87-21b818217/)<br />
 ![email](https://user-images.githubusercontent.com/20605692/159986132-72e4cb45-3c09-4204-9302-9ddfcac5c4d7.png) milan.r.radosavljevic@outlook.com <br />
 
-🔭 Advanced software engineer. <br />
+🔭 Software engineer. <br />
 ⚡ C/C++, Qt, QML <br />
-✨ Embedded <br />
 🐧 Linux <br />
