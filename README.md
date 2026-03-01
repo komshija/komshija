@@ -6,5 +6,5 @@
 ![email](https://user-images.githubusercontent.com/20605692/159986132-72e4cb45-3c09-4204-9302-9ddfcac5c4d7.png) milan.r.radosavljevic@outlook.com <br />
 
 🔭 Software engineer. <br />
-⚡ C/C++, Qt, QML <br />
+⚡ C++ <br />
 🐧 Linux <br />
